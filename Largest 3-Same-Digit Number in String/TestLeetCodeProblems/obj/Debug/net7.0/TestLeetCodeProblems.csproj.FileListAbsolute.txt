@@ -1,0 +1,14 @@
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\bin\Debug\net7.0\TestLeetCodeProblems.exe
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\bin\Debug\net7.0\TestLeetCodeProblems.deps.json
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\bin\Debug\net7.0\TestLeetCodeProblems.runtimeconfig.json
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\bin\Debug\net7.0\TestLeetCodeProblems.dll
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\bin\Debug\net7.0\TestLeetCodeProblems.pdb
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\TestLeetCodeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\TestLeetCodeProblems.AssemblyInfoInputs.cache
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\TestLeetCodeProblems.AssemblyInfo.cs
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\TestLeetCodeProblems.csproj.CoreCompileInputs.cache
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\TestLeetCodeProblems.dll
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\refint\TestLeetCodeProblems.dll
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\TestLeetCodeProblems.pdb
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\TestLeetCodeProblems.genruntimeconfig.cache
+C:\Users\james\Documents\Programming\Udemy courses\Angular_ASP.NET_Core_REST_API\CodePulse\API\TestLeetCodeProblems\TestLeetCodeProblems\obj\Debug\net7.0\ref\TestLeetCodeProblems.dll
